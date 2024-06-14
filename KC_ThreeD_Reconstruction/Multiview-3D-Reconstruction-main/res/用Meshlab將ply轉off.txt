@@ -1,0 +1,4 @@
+1.打開ply檔
+2.filter > Normal > Transform:Flip
+3.Prevuew > Flip Y > Apply
+4.存檔 > Export Mesh As > .off
